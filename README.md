@@ -1,1 +1,1 @@
-Consulta metereológica com uma API americana
+Consulta metereológica com uma API
